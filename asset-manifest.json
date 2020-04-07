@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/ty/static/css/main.198141de.chunk.css",
-    "main.js": "/ty/static/js/main.e3b2f98f.chunk.js",
-    "main.js.map": "/ty/static/js/main.e3b2f98f.chunk.js.map",
-    "runtime-main.js": "/ty/static/js/runtime-main.f58bf222.js",
-    "runtime-main.js.map": "/ty/static/js/runtime-main.f58bf222.js.map",
-    "static/js/2.e4b7a065.chunk.js": "/ty/static/js/2.e4b7a065.chunk.js",
-    "static/js/2.e4b7a065.chunk.js.map": "/ty/static/js/2.e4b7a065.chunk.js.map",
-    "index.html": "/ty/index.html",
-    "precache-manifest.ba4622dd755a9a3aa5caa3f584299848.js": "/ty/precache-manifest.ba4622dd755a9a3aa5caa3f584299848.js",
-    "service-worker.js": "/ty/service-worker.js",
-    "static/css/main.198141de.chunk.css.map": "/ty/static/css/main.198141de.chunk.css.map",
-    "static/js/2.e4b7a065.chunk.js.LICENSE.txt": "/ty/static/js/2.e4b7a065.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/ty/static/media/sc-logo.2fe586cf.png",
-    "static/media/ty-logo-white.png": "/ty/static/media/ty-logo-white.a1d983b5.png",
-    "static/media/tyler-photo-web.jpg": "/ty/static/media/tyler-photo-web.7f7772bb.jpg"
+    "main.css": "/vicorollout.github.io/static/css/main.ac2508bf.chunk.css",
+    "main.js": "/vicorollout.github.io/static/js/main.6ee62cd3.chunk.js",
+    "main.js.map": "/vicorollout.github.io/static/js/main.6ee62cd3.chunk.js.map",
+    "runtime-main.js": "/vicorollout.github.io/static/js/runtime-main.bc96e620.js",
+    "runtime-main.js.map": "/vicorollout.github.io/static/js/runtime-main.bc96e620.js.map",
+    "static/js/2.e4b7a065.chunk.js": "/vicorollout.github.io/static/js/2.e4b7a065.chunk.js",
+    "static/js/2.e4b7a065.chunk.js.map": "/vicorollout.github.io/static/js/2.e4b7a065.chunk.js.map",
+    "index.html": "/vicorollout.github.io/index.html",
+    "precache-manifest.924455d08577d1ffe4717b419ccaa835.js": "/vicorollout.github.io/precache-manifest.924455d08577d1ffe4717b419ccaa835.js",
+    "service-worker.js": "/vicorollout.github.io/service-worker.js",
+    "static/css/main.ac2508bf.chunk.css.map": "/vicorollout.github.io/static/css/main.ac2508bf.chunk.css.map",
+    "static/js/2.e4b7a065.chunk.js.LICENSE.txt": "/vicorollout.github.io/static/js/2.e4b7a065.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/vicorollout.github.io/static/media/sc-logo.2fe586cf.png",
+    "static/media/ty-logo-white.png": "/vicorollout.github.io/static/media/ty-logo-white.a1d983b5.png",
+    "static/media/tyler-photo-web.jpg": "/vicorollout.github.io/static/media/tyler-photo-web.7f7772bb.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.f58bf222.js",
+    "static/js/runtime-main.bc96e620.js",
     "static/js/2.e4b7a065.chunk.js",
-    "static/css/main.198141de.chunk.css",
-    "static/js/main.e3b2f98f.chunk.js"
+    "static/css/main.ac2508bf.chunk.css",
+    "static/js/main.6ee62cd3.chunk.js"
   ]
 }
