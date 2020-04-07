@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/ty/static/css/main.198141de.chunk.css",
+    "main.js": "/ty/static/js/main.e3b2f98f.chunk.js",
+    "main.js.map": "/ty/static/js/main.e3b2f98f.chunk.js.map",
+    "runtime-main.js": "/ty/static/js/runtime-main.f58bf222.js",
+    "runtime-main.js.map": "/ty/static/js/runtime-main.f58bf222.js.map",
+    "static/js/2.e4b7a065.chunk.js": "/ty/static/js/2.e4b7a065.chunk.js",
+    "static/js/2.e4b7a065.chunk.js.map": "/ty/static/js/2.e4b7a065.chunk.js.map",
+    "index.html": "/ty/index.html",
+    "precache-manifest.ba4622dd755a9a3aa5caa3f584299848.js": "/ty/precache-manifest.ba4622dd755a9a3aa5caa3f584299848.js",
+    "service-worker.js": "/ty/service-worker.js",
+    "static/css/main.198141de.chunk.css.map": "/ty/static/css/main.198141de.chunk.css.map",
+    "static/js/2.e4b7a065.chunk.js.LICENSE.txt": "/ty/static/js/2.e4b7a065.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/ty/static/media/sc-logo.2fe586cf.png",
+    "static/media/ty-logo-white.png": "/ty/static/media/ty-logo-white.a1d983b5.png",
+    "static/media/tyler-photo-web.jpg": "/ty/static/media/tyler-photo-web.7f7772bb.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f58bf222.js",
+    "static/js/2.e4b7a065.chunk.js",
+    "static/css/main.198141de.chunk.css",
+    "static/js/main.e3b2f98f.chunk.js"
+  ]
+}
