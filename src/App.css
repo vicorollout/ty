@@ -1,0 +1,147 @@
+.App {
+  text-align: center;
+  overflow: hidden;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+.App-header {
+  background-color: #000;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: stretch;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-background {
+  height: 100vh;
+  width: 100vw;
+  max-height: 100%;
+  min-height: 100%;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+}
+
+.ty-bg-inner {
+  position: relative;
+}
+
+.ty-social-wrapper {
+  display: flex;
+  height: 50px;
+  width: 160px;
+  align-items: center;
+  justify-content: center;
+  justify-content: space-between;
+  flex-direction: row;
+}
+
+.ty-socials {
+  cursor: pointer;
+  width: 100%;
+  opacity: .7;
+}
+
+.ty-socials:hover {
+  opacity: 1;
+}
+
+.ty-ig,
+.ty-sc {
+  width: 50px;
+  height: 50px;
+}
+
+.ty-ig {
+  background: url('./assets/ig-logo.png') no-repeat center/contain;
+}
+
+.ty-sc {
+  background: url('./assets/sc-logo.png') no-repeat center/contain;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+
+
+/*  
+ * Mobile Styles
+ *
+*/
+
+@media screen and (min-width: 768px) {
+  .ty-bg-inner {
+    position: relative;
+    margin: 0 auto;
+    width: 504px;
+    max-width: 504px;
+  }
+
+  .ty-bg {
+    max-width: 500px;
+  }
+
+  .ty-logo {
+    position: absolute;
+    top: 0;
+    left: -120px;
+    bottom: 0;
+    width: 220px;
+    margin: auto 0;
+  }
+
+  .ty-social-wrapper {
+    margin: 0 auto;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .App-background {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+  }
+
+  .ty-bg-wrapper,
+  .ty-bg,
+  .ty-bg-inner {
+    width: 100%;
+  }
+
+  .ty-bg-inner {
+    max-width: 420px;
+    margin: 0 auto;
+  }
+
+  .ty-bg {
+    margin: 0 auto;
+  }
+
+  .ty-logo {
+    max-width: 185px;
+    width: 44%;
+  }
+
+  .ty-social-wrapper {
+    margin: 0 auto 48px;
+    /*padding: 72px 0;*/
+  }
+}
