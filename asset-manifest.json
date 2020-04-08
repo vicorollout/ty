@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.9d258025.chunk.css",
+    "main.css": "/static/css/main.d1a79a3b.chunk.css",
     "main.js": "/static/js/main.9c51d088.chunk.js",
     "main.js.map": "/static/js/main.9c51d088.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.e61ea5bc.js",
@@ -8,9 +8,9 @@
     "static/js/2.e4b7a065.chunk.js": "/static/js/2.e4b7a065.chunk.js",
     "static/js/2.e4b7a065.chunk.js.map": "/static/js/2.e4b7a065.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.b96902fa15e10c82b735b865f65fc3c3.js": "/precache-manifest.b96902fa15e10c82b735b865f65fc3c3.js",
+    "precache-manifest.4440bb282017aaefd7c443c06a4e97c5.js": "/precache-manifest.4440bb282017aaefd7c443c06a4e97c5.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.9d258025.chunk.css.map": "/static/css/main.9d258025.chunk.css.map",
+    "static/css/main.d1a79a3b.chunk.css.map": "/static/css/main.d1a79a3b.chunk.css.map",
     "static/js/2.e4b7a065.chunk.js.LICENSE.txt": "/static/js/2.e4b7a065.chunk.js.LICENSE.txt",
     "static/media/App.css": "/static/media/sc-logo.2fe586cf.png",
     "static/media/ty-logo-white.png": "/static/media/ty-logo-white.a1d983b5.png",
@@ -19,7 +19,7 @@
   "entrypoints": [
     "static/js/runtime-main.e61ea5bc.js",
     "static/js/2.e4b7a065.chunk.js",
-    "static/css/main.9d258025.chunk.css",
+    "static/css/main.d1a79a3b.chunk.css",
     "static/js/main.9c51d088.chunk.js"
   ]
 }
